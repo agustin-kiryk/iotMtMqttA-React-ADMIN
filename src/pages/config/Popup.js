@@ -184,7 +184,7 @@ const Popup = ({ isOpen, onClose, data, sendComand }) => {
           X
         </button>
         <div className="popup-content">
-          <div className="bloqued">
+          <div className="blocked">
             <div className="titulo1">
               <h3>REFRESCAR</h3>
             </div>
